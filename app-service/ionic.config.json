@@ -1,0 +1,7 @@
+{
+  "name": "AppService",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
